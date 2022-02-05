@@ -1,0 +1,12 @@
+https://dev.to/nedsoft/performing-crud-with-sequelize-29cf
+https://dev.to/nedsoft/getting-started-with-sequelize-and-postgres-emp
+https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api
+https://docs.rackspace.com/support/how-to/install-mysql-server-on-the-ubuntu-operating-system/
+https://blog.codinghorror.com/youre-probably-storing-passwords-incorrectly/
+https://learning.postman.com/docs/publishing-your-api/documenting-your-api/
+https://blog.logrocket.com/building-structuring-node-js-mvc-application/
+https://github.com/carlosvldz/simpleSecureAPIREST
+https://documenter.getpostman.com/view/12403851/TVsxBRaR
+https://www.linkedin.com/pulse/building-simple-secure-api-rest-nodejs-carlos-s%C3%A1nchez-valdez
+
+https://fascinated-longship-043.notion.site/Junior-Backend-Developer-Assignment-47aeca36fe0b47c28ccba08ba30c6c67
